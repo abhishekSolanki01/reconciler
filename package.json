@@ -1,13 +1,10 @@
 {
-  "name": "reconciler",
+  "name": "01-reconciler",
   "version": "1.0.0",
   "description": "Reconsiler is basic attemp to replicate react at the very basic level, It deepens the understanding of how DOM manipulation uner the hood works and how react manages to update the states",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "publishConfig": {
-    "registry": "https://github.com/abhishekSolanki01/reconciler"
   },
   "author": "",
   "license": "ISC"
