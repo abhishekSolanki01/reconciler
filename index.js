@@ -262,5 +262,7 @@ function addChild ( obj ){
 
 //-------------------------------------------------------
 
+module.exports = MakeState
+
 
 
